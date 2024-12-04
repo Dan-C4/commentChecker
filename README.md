@@ -33,7 +33,7 @@ Clear and consistent comments improve code readability and maintainability, whic
 
 - Python 3.6 or higher
 - OpenAI Python library
-- An OpenAI API key with access to GPT-3.5-Turbo or GPT-4 models
+- An OpenAI API key with access to GPT-4 models
 
 ## Installation
 
@@ -42,3 +42,6 @@ Clear and consistent comments improve code readability and maintainability, whic
    ```bash
    git clone https://github.com/yourusername/comment-quality-checker.git
    cd comment-quality-checker
+  - **On Windows (PowerShell):**
+    - Use `python -m venv venv` to create the virtual environment.
+    - Activate it with `.\venv\Scripts\Activate.ps1`.
