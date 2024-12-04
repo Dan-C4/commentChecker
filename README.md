@@ -1,5 +1,6 @@
 # Comment Quality and Consistency Checker
 
+One team member Daniel Chandler
 An LLM-powered tool to assess and improve the quality and consistency of code comments in codebases.
 
 ## Introduction
